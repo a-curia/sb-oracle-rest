@@ -1,0 +1,3 @@
+INSERT INTO "EMPLOYEE" (ID, NAME, EMAIL, CREATED_DATE) VALUES(1, 'aa','111@yahoo.com', TO_DATE('2017-03-28', 'yyyy-mm-dd'));
+INSERT INTO "EMPLOYEE" (ID, NAME, EMAIL, CREATED_DATE) VALUES(2, 'bb','222@yahoo.com', TO_DATE('2017-03-29', 'yyyy-mm-dd'));
+INSERT INTO "EMPLOYEE" (ID, NAME, EMAIL, CREATED_DATE) VALUES(3, 'cc','333@yahoo.com', TO_DATE('2017-03-30', 'yyyy-mm-dd'));
